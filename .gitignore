@@ -1,0 +1,24 @@
+# Jupyter Notebook
+*.ipynb~
+
+# Word, Excel and CSV
+*.docx
+*.xlsx
+*.csv
+
+# Tableau
+*.twb
+*.twbx
+
+# Temporary files
+*.tmp
+*.bak
+
+# GitHub and Markdown artifacts
+*.md~
+*.DS_Store
+
+# Folders
+01-Frame/
+02-Data-Prep/
+03-Communication/
